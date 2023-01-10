@@ -1,4 +1,11 @@
+![mLang 動語文](banner.png)
+
+# About mLang
+mLang is an ideal digital language learning platform. It motivates second language learners to engage in classrooms and enhances the efficiency of learning and teaching. Through our platform, users collaborate with each other by writings texts, recording sound and uploading photos which expands their space of learning. It is an ideal e-learning platform that every educator would desire.
+
 # mLang 是甚麼?
+
+動語文(mLang) 是創新的第二語言電子教學平台，學生通過協作撰寫文字、錄音和上載圖像，擴闊學習空間，有效提升學生中、英文學習動機和效能。
 
 ## _*學生學習第二語言的難點*_
 不少學生對學習第二語言缺乏自信和學習動機。同時，因爲語境及支援所限，學習時遇到不少困難。由於學生的背景與學習需要多元，教師需因應班級狀況調適現有的語文課程，甚至自編校本教材。
@@ -22,3 +29,8 @@
 
 # 網站
 - [https://www.mlang.com.hk/](https://www.mlang.com.hk/)
+
+
+---
+
+m-Chinese Solution Limited 動中文方案有限公司
