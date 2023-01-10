@@ -1,4 +1,4 @@
-![mLang 動語文](banner.png)
+![mLang 動語文](https://github.com/mCSL-mLang/.github/blob/main/profile/banner.png?raw=true)
 
 # About mLang
 mLang is an ideal digital language learning platform. It motivates second language learners to engage in classrooms and enhances the efficiency of learning and teaching. Through our platform, users collaborate with each other by writings texts, recording sound and uploading photos which expands their space of learning. It is an ideal e-learning platform that every educator would desire.
